@@ -1,0 +1,1 @@
+A convolutional neural network built on PyTorch trained on ten years of NFL statisitcs to optimize online sportsbook gambling.
